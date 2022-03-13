@@ -1,7 +1,7 @@
 {
   "name": "Tamilini Music",
   "description": "A Telegram Music Bot with proper functions written in Python with Pyrogram and Py-Tgcalls.",
-  "repository": "https://github.com/TamilBots/TamiliniMusic",
+  "repository": "https://github.com/Mastimusic/PatelMusic",
   "logo": "https://telegra.ph/file/8aa4444ae3a3cb65fc93a.jpg",
   "keywords": [
   "python3",
@@ -12,7 +12,7 @@
   "telegram-bot",
   "pyrogram"
   ],
-  "repository": "https://github.com/Tamilini/TamiliniMusic",
+  "repository": "https://github.com/Mastimusic/PatelMusic",
   "stack": "container",
   "env": {
     "API_ID": {
