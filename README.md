@@ -5,11 +5,11 @@
 Before clicking on deploy to heroku just click on fork and star just below
 
 <p align="center">
-  <a href="https://github.com/TamilBots/TamiliniMusic/fork">
+  <a href="https://github.com/Mastimusic/PatelMusic/fork">
     <img src="https://img.shields.io/github/forks/TamilBots/TamiliniMusic?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/TamilBots/TamiliniMusic">
+  <a href="https://github.com/Mastimusic/PatelMusic">
     <img src="https://img.shields.io/github/stars/TamilBots/TamiliniMusic?style=social">
   </a>
 </p>
