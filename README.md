@@ -1,4 +1,4 @@
-# Tamilini Music 🎸
+# Patel Music 🎸
 
 ## Give your 💙
 
@@ -50,7 +50,7 @@ Before clicking on deploy to heroku just click on fork and star just below
 # Deployments :
 
 #### Deploy To Heroku 📡
-<a href="https://heroku.com/deploy?template=https://github.com/TamilBots/TamiliniMusic"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a>
+<a href="https://heroku.com/deploy?template=https://github.com/Mastimusic/PatelMusic"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a>
 #### Deploy To RailWay 🚄
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FTamilBots%2FTamiliniMusic-railways)
 #### Deploy On Vps 🌐
@@ -72,7 +72,7 @@ $ python3 -m Tamilini
 ```
 </details>
   
-Not Getting VPS Method? Contact [Support ❤](https://t.me/TamilSupport)
+Not Getting VPS Method? Contact [Support ❤](https://t.me/patelmod)
   
 ### GET STRING SESSION FROM REPL RUN :
 
@@ -91,11 +91,11 @@ Click the below button to watch the video tutorial on deploying
 <a href="https://youtu.be/zV1bV9w2iYU"><img src="https://img.shields.io/badge/How%20To%20Deploy-RAILWAY-blue.svg?logo=Youtube"></a>
 <a href="https://youtu.be/zV1bV9w2iYU"><img src="https://img.shields.io/youtube/views/zV1bV9w2iYU?style=social"></a>
 
-# Reach Me On Telegram : [🎸𝐓𝐚𝐦𝐢𝐥𝐢𝐧𝐢 𝐌𝐮𝐬𝐢𝐜🎶](https:t.me/TamiliniMusicBot)
+# Reach Me On Telegram : [🎸Patel 𝐌𝐮𝐬𝐢𝐜🎶](https:t.me/patelmod)
 
 ![logo](https://telegra.ph/file/8aa4444ae3a3cb65fc93a.jpg)
 
-## Made with ❤️ By [TamilBots](https://t.me/TamilBots) 🤖
+## Made with ❤️ By [TamilBots](https://t.me/patelmod) 🤖
 
 # Report Any Error or Help Contact :
 
@@ -115,5 +115,3 @@ Click the below button to watch the video tutorial on deploying
 <br> 
 This Repo Is Just A Custom Fork Of Yukki.
 </details> 
-
-
